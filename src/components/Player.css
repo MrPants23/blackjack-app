@@ -1,0 +1,17 @@
+.player-hand {
+    display: flex;
+    flex-direction: row;
+}
+
+.player-actions {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.player-actions button {
+    border: none;
+    padding: 10px;
+    border-radius: 4px;
+    background-color: lightgrey;
+}

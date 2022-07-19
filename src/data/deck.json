@@ -1,0 +1,314 @@
+[
+ {
+   "suit": "spades",
+   "type": "number",
+   "name": "2",
+   "value": "2"
+ },
+ {
+   "suit": "spades",
+   "type": "number",
+   "name": "3",
+   "value": "3"
+ },
+ {
+   "suit": "spades",
+   "type": "number",
+   "name": "4",
+   "value": "4"
+ },
+ {
+   "suit": "spades",
+   "type": "number",
+   "name": "5",
+   "value": "5"
+ },
+ {
+   "suit": "spades",
+   "type": "number",
+   "name": "6",
+   "value": "6"
+ },
+ {
+   "suit": "spades",
+   "type": "number",
+   "name": "7",
+   "value": "7"
+ },
+ {
+   "suit": "spades",
+   "type": "number",
+   "name": "8",
+   "value": "8"
+ },
+ {
+   "suit": "spades",
+   "type": "number",
+   "name": "9",
+   "value": "9"
+ },
+ {
+   "suit": "spades",
+   "type": "number",
+   "name": "10",
+   "value": "10"
+ },
+ {
+   "suit": "spades",
+   "type": "face",
+   "name": "jack",
+   "value": "10"
+ },
+ {
+   "suit": "spades",
+   "type": "face",
+   "name": "queen",
+   "value": "10"
+ },
+ {
+   "suit": "spades",
+   "type": "face",
+   "name": "king",
+   "value": "10"
+ },
+ {
+   "suit": "spades",
+   "type": "special",
+   "name": "ace",
+   "value": "11"
+ },
+ {
+   "suit": "hearts",
+   "type": "number",
+   "name": "2",
+   "value": "2"
+ },
+ {
+   "suit": "hearts",
+   "type": "number",
+   "name": "3",
+   "value": "3"
+ },
+ {
+   "suit": "hearts",
+   "type": "number",
+   "name": "4",
+   "value": "4"
+ },
+ {
+   "suit": "hearts",
+   "type": "number",
+   "name": "5",
+   "value": "5"
+ },
+ {
+   "suit": "hearts",
+   "type": "number",
+   "name": "6",
+   "value": "6"
+ },
+ {
+   "suit": "hearts",
+   "type": "number",
+   "name": "7",
+   "value": "7"
+ },
+ {
+   "suit": "hearts",
+   "type": "number",
+   "name": "8",
+   "value": "8"
+ },
+ {
+   "suit": "hearts",
+   "type": "number",
+   "name": "9",
+   "value": "9"
+ },
+ {
+   "suit": "hearts",
+   "type": "number",
+   "name": "10",
+   "value": "10"
+ },
+ {
+   "suit": "hearts",
+   "type": "face",
+   "name": "jack",
+   "value": "10"
+ },
+ {
+   "suit": "hearts",
+   "type": "face",
+   "name": "queen",
+   "value": "10"
+ },
+ {
+   "suit": "hearts",
+   "type": "face",
+   "name": "king",
+   "value": "10"
+ },
+ {
+   "suit": "hearts",
+   "type": "special",
+   "name": "ace",
+   "value": "11"
+ },
+ {
+   "suit": "diamonds",
+   "type": "number",
+   "name": "2",
+   "value": "2"
+ },
+ {
+   "suit": "diamonds",
+   "type": "number",
+   "name": "3",
+   "value": "3"
+ },
+ {
+   "suit": "diamonds",
+   "type": "number",
+   "name": "4",
+   "value": "4"
+ },
+ {
+   "suit": "diamonds",
+   "type": "number",
+   "name": "5",
+   "value": "5"
+ },
+ {
+   "suit": "diamonds",
+   "type": "number",
+   "name": "6",
+   "value": "6"
+ },
+ {
+   "suit": "diamonds",
+   "type": "number",
+   "name": "7",
+   "value": "7"
+ },
+ {
+   "suit": "diamonds",
+   "type": "number",
+   "name": "8",
+   "value": "8"
+ },
+ {
+   "suit": "diamonds",
+   "type": "number",
+   "name": "9",
+   "value": "9"
+ },
+ {
+   "suit": "diamonds",
+   "type": "number",
+   "name": "10",
+   "value": "10"
+ },
+ {
+   "suit": "diamonds",
+   "type": "face",
+   "name": "jack",
+   "value": "10"
+ },
+ {
+   "suit": "diamonds",
+   "type": "face",
+   "name": "queen",
+   "value": "10"
+ },
+ {
+   "suit": "diamonds",
+   "type": "face",
+   "name": "king",
+   "value": "10"
+ },
+ {
+   "suit": "diamonds",
+   "type": "special",
+   "name": "ace",
+   "value": "11"
+ },
+ {
+   "suit": "clubs",
+   "type": "number",
+   "name": "2",
+   "value": "2"
+ },
+ {
+   "suit": "clubs",
+   "type": "number",
+   "name": "3",
+   "value": "3"
+ },
+ {
+   "suit": "clubs",
+   "type": "number",
+   "name": "4",
+   "value": "4"
+ },
+ {
+   "suit": "clubs",
+   "type": "number",
+   "name": "5",
+   "value": "5"
+ },
+ {
+   "suit": "clubs",
+   "type": "number",
+   "name": "6",
+   "value": "6"
+ },
+ {
+   "suit": "clubs",
+   "type": "number",
+   "name": "7",
+   "value": "7"
+ },
+ {
+   "suit": "clubs",
+   "type": "number",
+   "name": "8",
+   "value": "8"
+ },
+ {
+   "suit": "clubs",
+   "type": "number",
+   "name": "9",
+   "value": "9"
+ },
+ {
+   "suit": "clubs",
+   "type": "number",
+   "name": "10",
+   "value": "10"
+ },
+ {
+   "suit": "clubs",
+   "type": "face",
+   "name": "jack",
+   "value": "10"
+ },
+ {
+   "suit": "clubs",
+   "type": "face",
+   "name": "queen",
+   "value": "10"
+ },
+ {
+   "suit": "clubs",
+   "type": "face",
+   "name": "king",
+   "value": "10"
+ },
+ {
+   "suit": "clubs",
+   "type": "special",
+   "name": "ace",
+   "value": "11"
+ }
+]

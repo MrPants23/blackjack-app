@@ -1,0 +1,9 @@
+.card img {
+    transform: scale(0.9);
+    height: 150px;
+    width: 100px;
+}
+
+.card-description {
+    display: none;
+}
