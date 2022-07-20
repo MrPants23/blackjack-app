@@ -5,7 +5,7 @@ import CardBack from '../images/card_back.png';
 
 const Dealer = (props) => {
     return (
-        <>
+        <div className='dealer'>
             <h1>Dealer Hand</h1>
             <h2>Shown Cards Value: {props.dealerHandSum}</h2>
             <div className='dealer-hand'>
@@ -21,7 +21,7 @@ const Dealer = (props) => {
                         imgSrc={card.isHidden ? CardBack : card.imgSrc} />
                 })}
             </div>
-        </>
+        </div>
     );
 }
 

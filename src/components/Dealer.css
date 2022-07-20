@@ -1,4 +1,28 @@
+.dealer {
+    /* background: linear-gradient(
+        green 50%,
+        red
+    ); */
+    border-radius: 4px;
+    padding: 10px 50px;
+}
+
 .dealer-hand {
     display: flex;
     flex-direction: row;
+    justify-content: center;
+}
+
+.dealer h1 {
+    border-radius: 4px;
+    align-items: center;
+    text-align: center;
+    color: white;
+}
+
+.dealer h2 {
+    font-size: 1rem;
+    text-align: center;
+    font-style: italic;
+    color: white;
 }

@@ -4,7 +4,7 @@ import './Player.css';
 
 const Player = (props) => {
     return (
-        <>
+        <div className='player'>
             <h1>Player Hand</h1>
             <h2>Shown Cards Value: {props.playerHandSum}</h2>
             <div className='player-hand'>
@@ -23,7 +23,7 @@ const Player = (props) => {
                 <button onClick={() => props.playerDrawCard(1)}>Hit Me</button>
                 <button onClick={() => props.playerStand()}>Stand</button> 
             </div>
-        </>
+        </div>
     );
 }
 
